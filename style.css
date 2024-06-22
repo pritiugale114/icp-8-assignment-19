@@ -2,3 +2,49 @@
     text-align: left;
     text-decoration: underline;
 }
+.box-container{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+ 
+}
+.place1-card{
+    width:250px;
+    
+    border: 1px solid gray;
+    background-color:rgb(238, 248, 247);
+}
+.text{
+    text-align: left;
+    margin: 20px 5px;
+}
+.images{
+    width: 250px;
+    margin: 15px 0;
+}
+.content{
+    text-align:center;
+    font-size:15px;
+    font-weight: bold;
+    margin: 15px 10px;
+}
+.text1{
+    margin-bottom: 40px;
+}
+/* Mobile Devices */
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+    
+  }
+
+  /* Tablet Devices */
+
+  @media screen and (min-width: 769px) and (max-width: 992px) {
+    
+  }
+
+  /* Dekstop device */
+
+  @media screen and (min-width: 993px) and (max-width: 1200px) {
+    
+  }
