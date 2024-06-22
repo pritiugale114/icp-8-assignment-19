@@ -21,6 +21,7 @@
 .images{
     width: 250px;
     margin: 15px 0;
+    border: 0.8px solid rgb(161, 161, 161);
 }
 .content{
     text-align:center;
